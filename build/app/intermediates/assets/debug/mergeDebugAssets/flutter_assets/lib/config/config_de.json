@@ -1,0 +1,77 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "isSafeArea":false,
+      "showSearch":true,
+      "usePrimaryColor":true,
+      "borderInput":false,
+      "title":"Was können wir Ihnen bei der Suche helfen?",
+      "alignment":"centerLeft",
+      "fontWeight":0,
+      "radius":30,
+      "fontSize":15.0,
+      "textOpacity":0.8,
+      "marginLeft":18.0,
+      "marginRight":18.0,
+      "marginBottom":5.0,
+      "marginTop":5.0,
+      "paddingLeft":5.0,
+      "paddingRight":15.0,
+      "paddingTop":0.0,
+      "paddingBottom":0.0,
+      "height":45.0,
+      "rotate":[],
+      "layout":"header_search"
+    }
+
+
+
+  ],
+  "VerticalLayout": {
+    "name": "Erkunde mehr",
+    "layout": "menu"
+  },
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

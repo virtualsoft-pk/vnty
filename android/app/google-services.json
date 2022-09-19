@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41837964403",
+    "firebase_url": "https://vnty-d8d7c-default-rtdb.firebaseio.com",
+    "project_id": "vnty-d8d7c",
+    "storage_bucket": "vnty-d8d7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41837964403:android:c7ee628b30f6a755dc8e06",
+        "android_client_info": {
+          "package_name": "com.virtualsoft.vnty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41837964403-b0e943op71pfidkab00eijo9khkaehum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuiodeKWdLyaocPMjpXj6toM7-LRxWLRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41837964403-b0e943op71pfidkab00eijo9khkaehum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
